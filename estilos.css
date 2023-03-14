@@ -1,0 +1,92 @@
+
+body {
+    padding: 100px;
+    border: 1px solid black;
+    margin: 60px 2px 0px 2px;
+}
+
+h1 {
+    font-size: 20pt;
+    font-family: 'Climate Crisis';
+}
+
+.texto {
+    color: blueviolet
+}
+
+li {
+    font-size: 11pt;
+    padding: 2px 4px 2px 4px;
+    border: 1px solid gray;
+    margin: 2px;
+    border-radius: 5px;
+    background-color: lightgray;
+}
+
+.caixa-imagem {
+    text-align: center;
+}
+
+.caixa-imagem img {
+    width: 600px;
+    border: 1px solid black;
+    padding: 4px;
+    border-radius: 5px;
+}
+
+.caixa-imagem p {
+    font-size: 10pt;
+}
+
+.botao-1 {
+    padding: 0px 2px 0px 2px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+}
+
+.botao-2 {
+    padding: 0px 2px 0px 2px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: darkgrey;
+    color: white;
+    font-weight: bold;
+    font-size: 10pt;
+}
+
+.curiosidade {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 4px;
+    border-left: 25px solid gray;
+    font-size: 10pt;
+    margin-left: 20px;
+    font-family: 'monospace';
+}
+
+p {
+    color: #404072; 
+}
+.pespecial {
+    border: 1px solid black;
+    background-color: blue;
+    color: white;
+}
+.caixa-imagem {
+    text-align: center;
+    margin: 10px;
+}
+.caixa-imagem img {
+    border: 1px solid black;
+    padding: 4px;
+    width: 600px;
+    border-radius: 5px;
+}
+.caixa-imagem p {
+    font-size: 11pt;
+    font-weight: 400;
+    color: black;
+}
